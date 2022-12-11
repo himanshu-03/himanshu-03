@@ -20,7 +20,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ### Important Links:
 
 - Projects: [github.com/himanshu-03](https://github.com/himanshu-03)
-- Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/hiimanshu-agarwal)
+- Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
 
 ### Skills:
 
