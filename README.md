@@ -13,7 +13,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 - **[Data Science Intern](https://www.linkedin.com/posts/agarwal-himanshu_offer-letter-activity-6992188192384802816-35uM?utm_source=share&utm_medium=member_desktop)** at [CodeClause](https://internship.codeclause.com/). See the [project](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE)
 - Data Science and Business Analytics Intern at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL)
 - Data Science Intern at **[LetsGrowMore](https://letsgrowmore.in/)**. See the [project](https://github.com/himanshu-03/LGMVIP-DataScience)
-- A [Technical Head]() at CSI-TCET.
+- [Kaggle](https://www.kaggle.com/) Expert. See here: [Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)
 - Secretariat at [GDSC-TCET](https://www.gdsctcet.tech/)
 
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
@@ -30,6 +30,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 - Projects: [github.com/himanshu-03](https://github.com/himanshu-03)
 - Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
+- Kaggle: [kaggle.com/hiimanshuagarwal](https://www.kaggle.com/hiimanshuagarwal)
 
 ### Skills:
 
@@ -38,6 +39,41 @@ I believe in public learning, and consider myself a proactive, responsible and r
 - **Languages**: Java, JavaScript, Node.Js, Python, C/C++
 - **Databases**: Firebase(Cloud Firestore & The Realtime Database), MySQL
 - **Tools**: Git, Postman, Figma, Canva, Adobe Illustrator
+
+
+### Projects:
+
+<!-- CodeClause -->
+<details>
+<summary><h3>CodeClause Tasks</h3></summary>
+
+Task Name | Tech Stack | Source Code | Dataset
+------- | --------- | :--------: | :--------: 
+Customer Churn Prediction | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE/tree/main/TASK1-Customer_Churn_Prediction), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset)
+Covid Analysis | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE/tree/main/TASK2-Covid_Analysis), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/covid-analysis) | [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
+</details>
+
+
+<!-- The Sparks Foundation -->
+<details>
+<summary><h3>The Sparks Foundation Tasks</h3></summary>
+
+Task Name | Tech Stack | Source Code | Dataset
+------- | --------- | :--------: | :--------: 
+Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/exploratory-data-analysis-sports) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/ipl-dataset-2008-2020)
+</details>
+
+<!-- LetsGrowMore -->
+<details>
+<summary><h3>LetsGrowMore Tasks</h3></summary>
+
+Task Name | Tech Stack | Source Code | Dataset
+------- | --------- | :--------: | :--------: 
+IRIS Flower Classification | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK1_IRIS_Flower_Classification) | [Kaggle]
+Stock Market Prediction using LSTM | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK2_Stock_Market_Prediction_LSTM), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/nse-tataglobal)
+</details>
+ 
+
 
   
 <h3 align="left">Support:</h3>
