@@ -16,7 +16,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 - 1x [Kaggle](https://www.kaggle.com/) Expert. See here: [Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)
 - Secretariat at [GDSC-TCET](https://www.gdsctcet.tech/)
 
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+<h3> Connect with me:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
     <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
      <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="25px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"></a> &nbsp&nbsp&nbsp
