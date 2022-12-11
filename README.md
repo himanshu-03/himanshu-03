@@ -13,7 +13,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 - **[Data Science Intern](https://www.linkedin.com/posts/agarwal-himanshu_offer-letter-activity-6992188192384802816-35uM?utm_source=share&utm_medium=member_desktop)** at [CodeClause](https://internship.codeclause.com/). See the [project](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE)
 - Data Science and Business Analytics Intern at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL)
 - Data Science Intern at **[LetsGrowMore](https://letsgrowmore.in/)**. See the [project](https://github.com/himanshu-03/LGMVIP-DataScience)
-- [Kaggle](https://www.kaggle.com/) Expert. See here: [Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)
+- 1x [Kaggle](https://www.kaggle.com/) Expert. See here: [Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)
 - Secretariat at [GDSC-TCET](https://www.gdsctcet.tech/)
 
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
