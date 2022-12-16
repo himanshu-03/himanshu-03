@@ -37,8 +37,8 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 - **Web**: React.js, HTML, CSS, JS
 - **Blockchain**: Ethereum
-- **Languages**: Java, JavaScript, Node.Js, Python, C/C++
-- **Databases**: Firebase(Cloud Firestore & The Realtime Database), MySQL
+- **Languages**: Python, Java, JavaScript, Node.Js, C/C++
+- **Databases**: MongoDB, MySQL
 - **Tools**: Git, Postman, Figma, Canva, Adobe Illustrator
 
 
