@@ -70,10 +70,10 @@ Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/himanshu-03
 
 Task Name | Tech Stack | Source Code | Dataset
 ------- | --------- | :--------: | :--------: 
-IRIS Flower Classification | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK1_IRIS_Flower_Classification) | [Kaggle]
+IRIS Flower Classification | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK1_IRIS_Flower_Classification) | Iris Dataset
 Stock Market Prediction using LSTM | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK2_Stock_Market_Prediction_LSTM), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/nse-tataglobal)
 Exploratory Data Analysis on Dataset Terrorism | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK3_EDA_Dataset_Terrorism) | [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
-Prediction using Decision Tree Algorrithm | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK4_Prediction_using_Decision_Tree_Algorithm) | 
+Prediction using Decision Tree Algorrithm | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK4_Prediction_using_Decision_Tree_Algorithm) | Iris dataset
 </details>
 
   
