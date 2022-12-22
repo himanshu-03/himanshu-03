@@ -46,7 +46,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 <!-- CodeClause -->
 <details>
-<summary><h3>CodeClause Tasks</h3></summary>
+<summary><h3>CodeClause</h3></summary>
 
 Task Name | Tech Stack | Source Code | Dataset
 ------- | --------- | :--------: | :--------: 
@@ -54,10 +54,9 @@ Customer Churn Prediction | Python | [Repo](https://github.com/himanshu-03/CC-NO
 Covid Analysis | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE/tree/main/TASK2-Covid_Analysis), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/covid-analysis) | [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
 </details>
 
-
 <!-- The Sparks Foundation -->
 <details>
-<summary><h3>The Sparks Foundation Tasks</h3></summary>
+<summary><h3>The Sparks Foundation</h3></summary>
 
 Task Name | Tech Stack | Source Code | Dataset
 ------- | --------- | :--------: | :--------: 
@@ -66,7 +65,7 @@ Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/himanshu-03
 
 <!-- LetsGrowMore -->
 <details>
-<summary><h3>LetsGrowMore Tasks</h3></summary>
+<summary><h3>LetsGrowMore</h3></summary>
 
 Task Name | Tech Stack | Source Code | Dataset
 ------- | --------- | :--------: | :--------: 
