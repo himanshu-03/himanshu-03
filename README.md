@@ -13,9 +13,9 @@ I usually work on **Data Analysing**, **Web Development**, and **UI/UX Designs**
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
 - 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
-- Secretariat at [GDSC-TCET](https://www.gdsctcet.tech/)
-- Documentation Team Member at [TCET Open Source](https://opensource.tcetmumbai.in/)
-- TE Technical Head at [CSI-TCET](https://tcetcsi.github.io/tcetcsi/index.html)
+- Secretariat at **[GDSC-TCET](https://www.gdsctcet.tech/)**
+- Documentation Team Member at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
+- TE Technical Head at **[CSI-TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
 
 
 ##  👨‍💻 Experience
