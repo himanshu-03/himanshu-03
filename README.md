@@ -43,7 +43,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 - Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
 - Kaggle: [kaggle.com/hiimanshuagarwal](https://www.kaggle.com/hiimanshuagarwal)
-- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1ezkwZcdzHqzjEtQ6gLJnRmRj7liq9YFC/view?usp=share_link)
+- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1j4ibK36ypsBjmejYUREvSWVR6J6wciiW/view?usp=share_link)
 
 
 ## 🚀 Skills:
