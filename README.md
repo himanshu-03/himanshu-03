@@ -19,7 +19,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 
 ##  👨‍💻 Experience
-- **[Data Science Intern](https://www.linkedin.com/posts/agarwal-himanshu_opportunity-datascience-internship-activity-7034145319512621056-gyDP?utm_source=share&utm_medium=member_desktop)** at **[Innomatics Research Labs](https://www.innomatics.in/)**
+
 - **[Data Science Intern](https://drive.google.com/file/d/1PWHhJqs_bZ05yxPs4qEnbiSw2OMWQUzy/view?usp=share_link)** at **[LetsGrowMore](https://letsgrowmore.in/)**. See the [project](https://github.com/himanshu-03/LGMVIP-DataScience)
 - **[Data Science and Business Analytics Intern](https://drive.google.com/file/d/1nFCMda1bdLjNZUE_Wc7gBtDdwtULj-i8/view?usp=sharing)** at **[The Sparks Foundation](https://www.thesparksfoundationsingapore.org/)**. See the [project](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL)
 - **[Data Science Intern](https://drive.google.com/file/d/1xnRnI0V5B_hLzi1nXBbrkv-TshLG-sqo/view?usp=share_link)** at **[CodeClause](https://internship.codeclause.com/)**. See the [project](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE)
