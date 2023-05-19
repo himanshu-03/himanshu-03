@@ -63,14 +63,15 @@ Domain | Tech Stacks
   <br/>
     
 Project Name | Tech Stack | Source Code | Dataset
-------- | :---------: | :--------: | :--------: 
+------- | :---------: | :--------: | :--------:
+Flight Price Prediction | Python, Flask | [Repo](https://github.com/himanshu-03/Flight-Prediction-System) | [Kaggle](https://www.kaggle.com/datasets/jillanisofttech/flight-price-prediction-dataset)
 Customer Churn Prediction | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE/tree/main/TASK1-Customer_Churn_Prediction), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset)
 Covid Analysis | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIENCE/tree/main/TASK2-Covid_Analysis), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/covid-analysis) | [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)
 Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/exploratory-data-analysis-sports) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/ipl-dataset-2008-2020)
 IRIS Flower Classification | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK1_IRIS_Flower_Classification) | Iris Dataset
 Stock Market Prediction using LSTM | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK2_Stock_Market_Prediction_LSTM), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/nse-tataglobal)
 Exploratory Data Analysis on Dataset Terrorism | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK3_EDA_Dataset_Terrorism) | [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
-Prediction using Decision Tree Algorrithm | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK4_Prediction_using_Decision_Tree_Algorithm) | Iris dataset
+Prediction using Decision Tree Algorithm | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK4_Prediction_using_Decision_Tree_Algorithm) | Iris dataset
 Device Failure Analysis | Python | [Repo](https://github.com/himanshu-03/Device-Failure-Analysis) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset)
 Effective Targetting of Advertisments | Python | [Repo](https://github.com/himanshu-03/Effective-Targetting-of-Advertisments) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
 </details>
