@@ -113,7 +113,7 @@ Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App)
 ## 🏆 GitHub Trophy
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=7&theme=radical)](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=7)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=8)
 </div>
   
 ## Support:</h3>
