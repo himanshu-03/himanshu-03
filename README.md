@@ -13,7 +13,7 @@ I usually work on **Data Analysing**, **Web Development**, and **UI/UX Designs**
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
 - [Open Source Contributor](https://www.linkedin.com/posts/agarwal-himanshu_connections-girlscriptsummerofcode-gssoc-activity-7063382878356684800-6UyV?utm_source=share&utm_medium=member_desktop) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
-- Documentation Team Member at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
+- Documentation Team Lead at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
 - 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
 - Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)**
 - TE Technical Head at **[CSI-TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
