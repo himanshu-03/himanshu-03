@@ -111,13 +111,6 @@ Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App)
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=himanshu-03&theme=radical)](https://git.io/streak-stats)
 </div>   
     </details>
-
-              
-## 🏆 GitHub Trophy
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=8&theme=radical)](https://github-profile-trophy.vercel.app/?username=himanshu-03&column=8)
-</div>
   
 ## Support:</h3>
 <p><a href="https://www.buymeacoffee.com/himanshuagarwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshuagarwal" /></a></p><br><br>
