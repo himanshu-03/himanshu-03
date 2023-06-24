@@ -8,7 +8,7 @@
   
 ##  🙋‍♂️ About me:
 Hello! I'm Himanshu, a third-year Computer Science student, a software developer who loves to explore and contribute to the world.
-I usually work on **Data Analysing**, **Web Development**, and **UI/UX Designs**.
+I usually work on **Data Analysing**, **Software Development**, **Web Development**, and **UI/UX Designs**.
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
