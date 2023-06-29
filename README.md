@@ -105,7 +105,6 @@ Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App)
   
 <div align = "center">
   
-  [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu-03&theme=radical)](https://github.com/himanshu-03/github-readme-stats)
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-03&layout=compact&theme=radical&line_height=15)](https://github.com/himashu-03/github-readme-stats)
   <br><br>
   [![GitHub Streak Dark](https://streak-stats.demolab.com?user=himanshu-03&theme=radical)](https://git.io/streak-stats)
