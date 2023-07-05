@@ -71,13 +71,13 @@ Covid Analysis | Python | [Repo](https://github.com/himanshu-03/CC-NOV-DATA_SCIE
 Exploratory Data Analysis - IPL | Python | [Repo](https://github.com/himanshu-03/Exploratory-Data-Analysis-IPL), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/exploratory-data-analysis-sports) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/ipl-dataset-2008-2020)
 IRIS Flower Classification | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK1_IRIS_Flower_Classification) | Iris Dataset
 Stock Market Prediction using LSTM | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK2_Stock_Market_Prediction_LSTM), [Kaggle](https://www.kaggle.com/code/hiimanshuagarwal/stock-market-price-prediction-using-lstm) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/nse-tataglobal)
-Exploratory Data Analysis on Dataset Terrorism | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK3_EDA_Dataset_Terrorism) | [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
+Exploratory Data Analysis on Dataset Terrorism | Python | [Repo](https://github.com/himanshu-03/Power-BI-Analysis-on-Terrorism) | [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
 Prediction using Decision Tree Algorithm | Python | [Repo](https://github.com/himanshu-03/LGMVIP-DataScience/tree/main/TASK4_Prediction_using_Decision_Tree_Algorithm) | Iris dataset
 Device Failure Analysis | Python | [Repo](https://github.com/himanshu-03/Device-Failure-Analysis) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/predictive-maintenance-dataset)
 Effective Targetting of Advertisments | Python | [Repo](https://github.com/himanshu-03/Effective-Targetting-of-Advertisments) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
 </details>
 
-    
+
 <details>
  <summary><b>Blockchain</b></summary>
   <br/>
@@ -93,7 +93,10 @@ The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NF
   
 Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
 ------- | :---------: | :--------: | :--------: | :-----------:
-Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Covid-19-Dashboard) | Streamlit |[Covid-19 Dashboard](https://himanshu-03-covid-19-dashboard-streamlitprofile-a6hwfk.streamlit.app/)
+Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/himanshu-03/portfolio) | Github, Netlify | [Portfolio](https://himanshu-03.github.io/portfolio/)
+Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Covid-19-Dashboard) | Streamlit | [Covid-19 Dashboard](https://himanshu-03-covid-19-dashboard-streamlitprofile-a6hwfk.streamlit.app/)
+Flight Prediction System | Python, FastAPI | [Repo](https://github.com/himanshu-03/Flight-Price-Prediction-Streamlit) | Streamlit | [Flight Prediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
+Myntra Clone | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Myntra-Clone) | GitHub | [Myntra Clone](https://himanshu-03.github.io/Myntra-Clone-UI/)
 Ambulance Booking System | Python, HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Ambulance-Booking-System) | Localhost | -
 Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
 Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/)
