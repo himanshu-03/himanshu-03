@@ -49,12 +49,12 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 ## 🚀 Skills:
 Domain | Tech Stacks
--------- | :-------:
-**Web** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
+-------- | :-------
+**Web** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
 **Blockchain** | <img src="https://cdn-icons-png.flaticon.com/512/4125/4125334.png" width="40px">
-**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">
-**Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px"><img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
-**Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px"><img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">
+**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">&nbsp;&nbsp;<img src="https://github.com/himanshu-03/himanshu-03/assets/97957777/2d915902-7343-486d-b8aa-d3820e0ce559" width="40px">
+**Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px">&nbsp;&nbsp;<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
+**Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px">&nbsp;&nbsp;<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" width="40px">
 
 
 ## 🔭 Projects:
