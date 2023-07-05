@@ -93,7 +93,7 @@ The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NF
   
 Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
 ------- | :---------: | :--------: | :--------: | :-----------:
-Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/himanshu-03/portfolio) | Github, Netlify | [Portfolio](https://himanshu-03.github.io/portfolio/)
+Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/himanshu-03/portfolio) | GitHub, Netlify | [Portfolio](https://himanshu-03.github.io/portfolio/)
 Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Covid-19-Dashboard) | Streamlit | [Covid-19 Dashboard](https://himanshu-03-covid-19-dashboard-streamlitprofile-a6hwfk.streamlit.app/)
 Flight Prediction System | Python, FastAPI | [Repo](https://github.com/himanshu-03/Flight-Price-Prediction-Streamlit) | Streamlit | [Flight Prediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
 Myntra Clone | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Myntra-Clone) | GitHub | [Myntra Clone](https://himanshu-03.github.io/Myntra-Clone-UI/)
