@@ -32,12 +32,12 @@ I believe in public learning, and consider myself a proactive, responsible and r
 </h3> 
     <a href="https://www.github.com/himanshu-03" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="./assets/socials/github.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="35px" src="./assets/socials/linkedin.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://twitter.com/hiimanshu_03" target="_blank"><img alt="Twitter" width="35px" src="./assets/socials/twitter.webp"></a> &nbsp&nbsp&nbsp
+    <a href="https://twitter.com/hiimanshu_03" target="_blank"><img alt="Threads" width="35px" src="./assets/socials/twitter.webp"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.threads.net/@_._hiimanshu_._" target="_blank"><img alt="Threads" width="35px" src="./assets/socials/threads.png"></a> &nbsp&nbsp&nbsp
      <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="35px" src="./assets/socials/kaggle.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank"><img alt="Instagram" width="35px" src="./assets/socials/instagram.png"></a> &nbsp&nbsp&nbsp
     <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank"><img alt="Facebook" width="35px" src="./assets/socials/facebook.svg"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="./assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp
-    <a href="https://api.whatsapp.com/send/?phone=%2B919967432086&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="35px" src="./assets/socials/whatsapp.png"></a>   
+    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="./assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp   
 </p> 
 
 
