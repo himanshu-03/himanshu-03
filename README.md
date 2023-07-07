@@ -1,14 +1,14 @@
 <h1 align = "center"> Hi, I'm Himanshu Agarwal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
-<h3 align="center">I'm a passionate Software Developer from India.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Himanshu+Agarwal;I'm+a+Software+Developer.;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C+Python+Developer;I+%E2%9D%A4%EF%B8%8F+DSA.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=200&color=F70000&center=true&vCenter=true&width=470&lines=Hey!+It's+Himanshu+Agarwal;I'm+a+Software+Developer.;MERN+Stack+Developer;%E2%9D%A4%EF%B8%8F+Data+Analyst+%7C+Python+Developer;)](https://git.io/typing-svg)
 </div>
   
   
 ##  🙋‍♂️ About me:
-Hello! I'm Himanshu, a third-year Computer Science student, a software developer who loves to explore and contribute to the world.
-I usually work on **Data Analysing**, **Software Development**, **Web Development**, and **UI/UX Designs**.
+Hello! I'm Himanshu, a final year Computer Science student, a software developer who loves to explore and contribute to the world.
+I usually work on **Full Stack Development**, **Software Development**, **Data Analysing** and **UI/UX Designs**.
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
@@ -28,33 +28,33 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 
   
-## 🔗 Connect with me:<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+## 🔗 Connect with me: <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 </h3> 
-    <a href="https://www.github.com/himanshu-03" target="_blank"><img alt="Github" width="35px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="35px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png"></a> &nbsp&nbsp&nbsp
-     <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="35px" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/512/external-kaggle-an-online-community-of-data-scientists-and-machine-learners-owned-by-google-logo-color-tal-revivo.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank"><img alt="Instagram" width="35px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank"><img alt="Facebook" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png"></a>&nbsp&nbsp&nbsp
-    <a href="https://api.whatsapp.com/send/?phone=%2B919967432086&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="35px" src="https://cdn-icons-png.flaticon.com/512/5968/5968841.png"></a>   
+    <a href="https://www.github.com/himanshu-03" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="./assets/socials/github.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="35px" src="./assets/socials/linkedin.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://twitter.com/hiimanshu_03" target="_blank"><img alt="Twitter" width="35px" src="./assets/socials/twitter.webp"></a> &nbsp&nbsp&nbsp
+     <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="35px" src="./assets/socials/kaggle.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank"><img alt="Instagram" width="35px" src="./assets/socials/instagram.png"></a> &nbsp&nbsp&nbsp
+    <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank"><img alt="Facebook" width="35px" src="./assets/socials/facebook.svg"></a> &nbsp&nbsp&nbsp
+    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="./assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp
+    <a href="https://api.whatsapp.com/send/?phone=%2B919967432086&text&type=phone_number&app_absent=0" target="_blank"><img alt="Whatsapp" width="35px" src="./assets/socials/whatsapp.png"></a>   
 </p> 
 
 
 ## ©️ Important Links:
 
-- Linkedin: [linkedin.com/hiimanshu-agarwal](https://linkedin.com/in/hiimanshu-agarwal)
-- Kaggle: [kaggle.com/hiimanshuagarwal](https://www.kaggle.com/hiimanshuagarwal)
+- Linktree: [linkedin.com/hiimanshu-agarwal](https://linktr.ee/himanshu_agarwal)
 - Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1j4ibK36ypsBjmejYUREvSWVR6J6wciiW/view?usp=share_link)
 
 
 ## 🚀 Skills:
 Domain | Tech Stacks
 -------- | :-------
-**Web** | <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="40px">
-**Blockchain** | <img src="https://cdn-icons-png.flaticon.com/512/4125/4125334.png" width="40px">
-**Languages** | <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" width="40px">&nbsp;&nbsp;<img src="https://github.com/himanshu-03/himanshu-03/assets/97957777/2d915902-7343-486d-b8aa-d3820e0ce559" width="40px">
-**Databases** | <img src="https://cdn-icons-png.flaticon.com/512/4726/4726022.png" width="40px">&nbsp;&nbsp;<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="40px">
-**Tools** | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="40px">&nbsp;&nbsp;<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-images-1.medium.com/max/1200/1*A6kkoOVJVpXPWewg8axc5w.png" width="40px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968472.png" width="40px">&nbsp;&nbsp;<img src="https://www.vectorlogo.zone/logos/docusaurus/docusaurus-official.svg" width="40px">
+**Web** | <img src="./assets/skills/reactjs.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/html.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/css.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/js.png" width="40px">
+**Blockchain** | <img src="./assets/skills/eth.png" width="40px">
+**Languages** | <img src="./assets/skills/python.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/java.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/js.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/nodejs.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/c%2B%2B.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/markdown.png" width="40px">
+**Databases** | <img src="./assets/skills/sql.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/mongodb.webp" width="40px">
+**Tools** | <img src="./assets/skills/git.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/postman.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/figma.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/canva.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/adobeillustrator.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/docusaurus.svg" width="40px">
 
 
 ## 🔭 Projects:
