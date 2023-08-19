@@ -47,7 +47,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ## ©️ Important Links:
 
 - Linktree: [linktr.ee/himanshu_agarwal](https://linktr.ee/himanshu_agarwal)
-- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1j4ibK36ypsBjmejYUREvSWVR6J6wciiW/view?usp=share_link)
+- Resume: [resume/himanshu-agarwal](https://drive.google.com/file/d/1WZZb2UPaz6kMUDvkXwKLTUPwId_nlMQj/view?usp=drive_link)
 
 
 ## 🚀 Skills:
