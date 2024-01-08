@@ -53,6 +53,18 @@ Domain | Tech Stacks
 
 
 ## 🔭 Projects:
+<!-- Blockchain -->
+
+<details>
+ <summary><b>Blockchain</b></summary>
+  <br/>
+  
+Project Name | Tech Stack | Source Code 
+------- | :---------: | :--------: 
+The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NFT-The-Mutant-Planets)
+[NFT Forge (Oye Paaji)](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge_Oye-Paaji)
+</details>
+
 <!-- Data Science -->
 <details>
   <summary><b>Data Science<b></summary>
@@ -72,17 +84,7 @@ Device Failure Analysis | Python | [Repo](https://github.com/himanshu-03/Device-
 Effective Targetting of Advertisments | Python | [Repo](https://github.com/himanshu-03/Effective-Targetting-of-Advertisments) | [Kaggle](https://www.kaggle.com/datasets/hiimanshuagarwal/advertising-ef)
 </details>
 
-
-<details>
- <summary><b>Blockchain</b></summary>
-  <br/>
-  
-Project Name | Tech Stack | Source Code 
-------- | :---------: | :--------: 
-The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NFT-The-Mutant-Planets)
-[NFT Forge (Oye Paaji)](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge_Oye-Paaji)
-</details>
-    
+<!-- Web Development -->
 <details>
  <summary><b>Web Development</b></summary>
   <br/>
