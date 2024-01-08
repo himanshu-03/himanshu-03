@@ -67,7 +67,7 @@ The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NF
 
 <!-- Data Science -->
 <details>
-  <summary><b>Data Science<b></summary>
+  <summary><b>Data Science</b></summary>
   <br/>
     
 Project Name | Tech Stack | Source Code | Dataset
