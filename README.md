@@ -80,6 +80,7 @@ Effective Targetting of Advertisments | Python | [Repo](https://github.com/himan
 Project Name | Tech Stack | Source Code 
 ------- | :---------: | :--------: 
 The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NFT-The-Mutant-Planets)
+[NFT Forge (Oye Paaji)](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge_Oye-Paaji)
 </details>
     
 <details>
@@ -88,11 +89,13 @@ The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NF
   
 Project Name | Tech Stack | Source Code | Hosting Platform | Website Link
 ------- | :---------: | :--------: | :--------: | :-----------:
+NFT Forge (Oye Paaji) | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/NFT-Forge-Website) | GitHub | https://himanshu-03.github.io/NFT-Forge-Website/
 Portfolio Website | ReactJS, Tailwind CSS | [Repo](https://github.com/himanshu-03/portfolio) | GitHub, Netlify | [Portfolio](https://himanshu-03.github.io/portfolio/)
+Doctor Appointment Booking System | HTML, CSS, PHP | [Repo](https://github.com/himanshu-03/Doctor-Appointment-Booking-System) | localhost | -
 Covid-19 Dashboard | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Covid-19-Dashboard) | Streamlit | [Covid-19 Dashboard](https://himanshu-03-covid-19-dashboard-streamlitprofile-a6hwfk.streamlit.app/)
 Flight Prediction System | Python, FastAPI | [Repo](https://github.com/himanshu-03/Flight-Price-Prediction-Streamlit) | Streamlit | [Flight Prediction](https://himanshu-03-flight-prediction-system-streamlit-app-fkj7k0.streamlit.app/)
 Myntra Clone | HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Myntra-Clone) | GitHub | [Myntra Clone](https://himanshu-03.github.io/Myntra-Clone-UI/)
-Ambulance Booking System | Python, HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Ambulance-Booking-System) | Localhost | -
+Ambulance Booking System | Python, HTML, CSS, JS | [Repo](https://github.com/himanshu-03/Ambulance-Booking-System) | localhost | -
 Regex Matcher | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Regex-Matcher) | Python Anywhere | [Regex Matcher](http://himanshuagarwal.pythonanywhere.com/)
 Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App) | Python Anywhere | [Notes App](http://hiimanshuagarwal.pythonanywhere.com/)
 </details>
