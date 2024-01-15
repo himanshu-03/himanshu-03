@@ -130,6 +130,8 @@ Domain | Tech Stacks
   <img src="https://raw.githubusercontent.com/himanshu-03/himanshu-03/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
 </details>
 
+[![An image of @himanshu03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu03)](https://holopin.io/@himanshu03)
+
 <!-- Support -->
 
 ## Support:
