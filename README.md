@@ -114,7 +114,7 @@ Notes App | Python, HTML, CSS | [Repo](https://github.com/himanshu-03/Notes-App)
 </div>   
     </details>
 
-![Snake Animation](https://github.com/himanshu-03/himanshu-03/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/himanshu-03/himanshu-03/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)![Snake Animation](https://github.com/himanshu-03/himanshu-03/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## Support:</h3>
 <p><a href="https://www.buymeacoffee.com/himanshuagarwal"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshuagarwal" /></a></p><br><br>
