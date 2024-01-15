@@ -9,7 +9,7 @@
 
 ##  🙋‍♂️ About me:
 
-<img align="right" height="250" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+<img align="right" height="200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
 Hello! I'm Himanshu, a final year Computer Science student, a software developer who loves to explore and contribute to the world.
 I usually work on **Full Stack Development**, **Software Development**, **Data Analysing** and **UI/UX Designs**.
