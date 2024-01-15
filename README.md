@@ -48,7 +48,7 @@ Domain | Tech Stacks
 **Web** | <img src="./assets/skills/reactjs.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/html.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/css.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/js.png" width="40px">
 **Blockchain** | <img src="./assets/skills/eth.png" width="40px">
 **Languages** | <img src="./assets/skills/python.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/java.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/js.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/nodejs.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/c%2B%2B.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/markdown.png" width="40px">
-**Databases** | <img src="./assets/skills/sql.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/mongodb.webp" width="40px">
+**Databases** | <img src="./assets/skills/sql.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/mongodb.webp" width="40px">&nbsp;&nbsp;<img src="./assets/skills/postgre_sql.png" width="40px">
 **Tools** | <img src="./assets/skills/git.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/postman.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/figma.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/canva.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/adobeillustrator.png" width="40px">&nbsp;&nbsp;<img src="./assets/skills/docusaurus.svg" width="40px">
 
 
