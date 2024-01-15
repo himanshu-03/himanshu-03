@@ -2,7 +2,7 @@ name: manual run
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* *6 * * *"
+    - cron: "* */6 * * *"
   workflow_dispatch:
 
 jobs:
