@@ -29,48 +29,36 @@ I believe in public learning, and consider myself a proactive, responsible and r
 - TE Technical Head at **[CSI-TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
   
 ## 🔗 Connect with me: <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
-</h3> 
-    <a href="https://www.github.com/himanshu-03" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="./assets/socials/github.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank"><img alt="LinkedIn" width="35px" src="./assets/socials/linkedin.webp"></a> &nbsp&nbsp&nbsp
-    <a href="https://twitter.com/hiimanshu_03" target="_blank"><img alt="Threads" width="35px" src="./assets/socials/twitter.webp"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.threads.net/@_._hiimanshu_._" target="_blank"><img alt="Threads" width="35px" src="./assets/socials/threads.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.kaggle.com/hiimanshuagarwal" target="_blank"><img alt="Kaggle" width="35px" src="./assets/socials/kaggle.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank"><img alt="Instagram" width="35px" src="./assets/socials/instagram.png"></a> &nbsp&nbsp&nbsp
-    <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank"><img alt="Facebook" width="35px" src="./assets/socials/facebook.svg"></a> &nbsp&nbsp&nbsp
-    <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="./assets/socials/gmail.png"></a>&nbsp&nbsp&nbsp   
-</p> 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/agarwal-himanshu" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/hiimanshu_03" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="58" height="40" alt="twitter logo"  />
   </a>
   <a href="mailto:himanshuaaagarwal2002@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-  <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
   <a href="https://discordapp.com/users/752109034252927049" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="58" height="40" alt="discord logo"  />
   </a>
-  <a href="https://t.me/hiimanshu_agarwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://www.instagram.com/_._hiimanshu_._" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100089528615302" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="58" height="40" alt="facebook logo"  />
   </a>
   <a href="https://wa.me/+919967432086" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="58" height="40" alt="whatsapp logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCQmwZPL8qjwh2qREwDtumYQ" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="58" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/hiimanshu_agarwal" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="58" height="40" alt="telegram logo"  />
   </a>
 </div>
-
-###
 
 <!-- Important Links -->
 
