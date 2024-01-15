@@ -132,9 +132,5 @@ Domain | Tech Stacks
 
 <!-- Support -->
 
-<div align = "center">
-  
-  ## Support:
-  <p><a href="https://www.buymeacoffee.com/himanshuagarwal"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshuagarwal" /></a></p><br><br>
-  <br>
-</div>
+## Support:
+  <p><a href="https://www.buymeacoffee.com/himanshuagarwal"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="himanshuagarwal" /></a></p>
