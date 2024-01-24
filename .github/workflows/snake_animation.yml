@@ -1,6 +1,8 @@
 name: Snake Animation
 
-on: [push]
+on:
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   generate:
