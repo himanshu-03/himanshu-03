@@ -24,7 +24,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
 
 ##  👨‍💻 Experience
 
-- Chief Executive Officer (CEO) at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
+- Co-Founder & CEO at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
 - Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)**
 - TE Technical Head at **[CSI-TCET](https://tcetcsi.github.io/tcetcsi/index.html)**
   
