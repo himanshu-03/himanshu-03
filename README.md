@@ -154,7 +154,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
   Project Name | Tech Stack | Source Code 
   ------- | :---------: | :--------: 
   The Mutant Planets - NFT | Javascript | [Repo](https://github.com/himanshu-03/NFT-The-Mutant-Planets)
-  [NFT Forge (Oye Paaji)](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge_Oye-Paaji)
+  [NFT Forge - A NFT Generator](https://himanshu-03.github.io/NFT-Forge-Website/) | Javascript | [Repo](https://github.com/himanshu-03/NFT-Forge-A-NFT-Generator)
   
   </details>
 
