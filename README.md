@@ -208,14 +208,14 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshu-03&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=himanshu-03&locale=en&mode=weekly&theme=midnight-purple&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=himanshu-03&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-03&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&line=9745f5&color=9745f5&point=ffffff" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-03&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&line=9745f5&color=9745f5&point=ffffff" height="350" alt="activity-graph graph"  />
 </div>
 
   <!-- Snake Contribution Game -->
 
   <br clear="both">
 
-  <img src="https://raw.githubusercontent.com/himanshu-03/himanshu-03/output/only-svg/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/himanshu-03/himanshu-03/output/only-svg/github-contribution-grid-snake-dark.svg" width="1500" alt="Snake Game" />
 </details>
 
 [![An image of @himanshu03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshu03)](https://holopin.io/@himanshu03)
