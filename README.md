@@ -199,7 +199,8 @@ I believe in public learning, and consider myself a proactive, responsible and r
 <!-- GitHub Statistics -->
 
 <details align="center"> 
-  <summary font-weight="bold"><h4>📊 Github Statistics</h4></summary>
+  <summary font-weight="bold">  📊 Github Statistics</summary>
+  <br />
 
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu-03&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
@@ -208,9 +209,7 @@ I believe in public learning, and consider myself a proactive, responsible and r
   <img src="https://github-profile-trophy.vercel.app?username=himanshu-03&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-03&radius=16&theme=github-dark&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph&line=9745f5&color=9745f5&point=ffffff" height="350" alt="activity-graph graph"  />
 </div>
-
   <!-- Snake Contribution Game -->
-
   <br clear="both">
 
   <img src="https://raw.githubusercontent.com/himanshu-03/himanshu-03/output/only-svg/github-contribution-grid-snake-dark.svg" width="1500" alt="Snake Game" />
