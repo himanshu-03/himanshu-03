@@ -25,8 +25,8 @@ I believe in public learning, and consider myself a proactive, responsible and r
 ##  👨‍💻 Experience
 
 - Co-Founder & CEO at **[TCET Open Source](https://opensource.tcetmumbai.in/)**
-- Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)**
 - Data Science Intern at **[Innomatics Research Labs](https://www.innomatics.in/)**
+- Secretariat at **[GDSC-TCET](https://www.dsctcet.tech/)**
   
 ## 🔗 Connect with me: <a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
 
