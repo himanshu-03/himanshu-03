@@ -17,7 +17,7 @@ I usually work on **Full Stack Development**, **Software Development**, **Data A
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
 - Finalist of [Code For Good '23](https://www.linkedin.com/feed/update/urn:li:activity:7084205337221734400/) at JP Morgan Chase & Co.
-- [Open Source Contributor](https://www.linkedin.com/posts/agarwal-himanshu_connections-girlscriptsummerofcode-gssoc-activity-7063382878356684800-6UyV?utm_source=share&utm_medium=member_desktop) at **[GSSoC'23](https://gssoc.girlscript.tech/)**
+- Mentor at **[GSSoC'24](https://gssoc.girlscript.tech/)**
 - 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
 
 <!-- Experience -->
