@@ -16,7 +16,7 @@ I usually work on **Full Stack Development**, **Software Development**, **Data A
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
-- Finalist of [Code For Good '23](https://www.linkedin.com/feed/update/urn:li:activity:7084205337221734400/) at JP Morgan Chase & Co.
+- Upcoming **SWE** at JP Morgan Chase & Co.
 - 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
 
 <!-- Experience -->
