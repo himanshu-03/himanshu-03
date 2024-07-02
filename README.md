@@ -16,8 +16,8 @@ I usually work on **Full Stack Development**, **Software Development**, **Data A
 
 I believe in public learning, and consider myself a proactive, responsible and result-oriented professional. 
 
-- Upcoming **SWE** at [JP Morgan Chase & Co.](https://www.jpmorganchase.com/)
-- 2x [Kaggle](https://www.kaggle.com/) Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
+- Upcoming **SWE** at **[JP Morgan Chase & Co.](https://www.jpmorganchase.com/)**
+- 2x **[Kaggle](https://www.kaggle.com/)** Expert. See here: **[Kaggle Expert](https://www.kaggle.com/hiimanshuagarwal)**
 
 <!-- Experience -->
 
